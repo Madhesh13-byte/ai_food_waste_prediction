@@ -14,6 +14,8 @@ venv/
 # Project Data & Models
 *.csv
 *.pkl
+!waste_prediction_xgboost.pkl
+!canteen_food_waste_synthetic_v2.csv
 *.png
 plots/
 
